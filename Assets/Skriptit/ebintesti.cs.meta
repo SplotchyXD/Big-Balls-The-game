@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fe6f57bce7c93174fbf9dc7566fe8e7e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Blood: {fileID: 2455632487043554178, guid: 97f5bf0c1c856164186819b4e3b3d7a5, type: 3}
+  - Rubble: {fileID: 3819549624009019325, guid: e462dfd13567b5e4687f9919ad613932, type: 3}
+  - PointsBlood: {fileID: 5245038789275419017, guid: 8200ac6245c9bf940979516e993d20f6, type: 3}
+  - Lava: {fileID: 3324199524781507258, guid: f51f606f36ef71d43a86ac580fe5baf6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

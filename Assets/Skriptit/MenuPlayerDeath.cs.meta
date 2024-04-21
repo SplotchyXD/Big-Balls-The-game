@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 61d40912a312e884c9863dac19a9cf08
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerSpawner: {fileID: 70553409339636219, guid: 9b515694e09502a4b8202f4c9b6564d0, type: 3}
+  - RedSpawner: {fileID: 8032595548297992857, guid: 720bc03c85af0844abce2f5bbcb9e72b, type: 3}
+  - YellowSpawner: {fileID: 2380758736957398881, guid: b374dccc3cc8cb444a9f6309d91490b4, type: 3}
+  - GreenSpawner: {fileID: 2093300081047465419, guid: cc5015cff3d76104d9fd22031f307f7f, type: 3}
+  - Player: {fileID: 3510673970210187711, guid: fd91ee9c47334e146a1004926f33deb2, type: 3}
+  - Red: {fileID: 7384542695197991416, guid: ef372027440fa0641851088d3ce4a861, type: 3}
+  - Yellow: {fileID: 6113942632327263154, guid: c8d63d0a3814d994290330aac6218a32, type: 3}
+  - Green: {fileID: 6673431616654950556, guid: b922e868e8fd3f64ca05189f01b9a978, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

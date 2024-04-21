@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Level
+  - Enemies
+  - ui
+  - Neutrals
+  - Lava
+  - AutoMoveManager
+  - BigMoney
+  - DeathBarrier
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - level
+  - Water
+  - UI
+  - post processing
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Level
+    uniqueID: 2792480279
+    locked: 0
+  - name: Enemies
+    uniqueID: 433025847
+    locked: 0
+  - name: New Layer
+    uniqueID: 2901231841
+    locked: 0
